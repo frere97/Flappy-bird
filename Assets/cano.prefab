@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: -4379276587327900956}
   - component: {fileID: 5255092431253650397}
   - component: {fileID: -6940768871944316633}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: cano
   m_TagString: dano
   m_Icon: {fileID: 0}
@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 1972975719898067387}
   - component: {fileID: 7826670116921221355}
   - component: {fileID: 8694294328525277594}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square (1)
   m_TagString: dano
   m_Icon: {fileID: 0}
@@ -269,7 +269,7 @@ GameObject:
   - component: {fileID: 1931066122149696333}
   - component: {fileID: 4814075734141391403}
   - component: {fileID: 3263195647580988402}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Square
   m_TagString: dano
   m_Icon: {fileID: 0}
